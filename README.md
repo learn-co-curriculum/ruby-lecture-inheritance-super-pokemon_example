@@ -12,3 +12,5 @@ tags: lecture
 ## Summary / README / Transcript
 
 ## Check For Understanding with mini-Lab / Quiz
+
+<a href='https://learn.co/lessons/ruby-lecture-inheritance-super-pokemon_example' data-visibility='hidden'>View this lesson on Learn.co</a>
